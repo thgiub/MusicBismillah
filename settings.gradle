@@ -1,0 +1,7 @@
+include ':feature:music_api'
+include ':feature:music'
+include ':app'
+include ':data'
+include ':entities'
+
+rootProject.name = "MusicBismillah"
